@@ -1,6 +1,11 @@
 - 👋 Hi, I’m Fred Chien!
-- 👀 I’m interested in full stack development! My hobbies include pottery, Brazilian Jiu-Jitsu, and lifting.
-- 🌱 I’m currently learning Ruby on Rails, Javascript, SQL, and React!
+- 👀 My hobbies include pottery, Brazilian Jiu-Jitsu, and weightlifting.
+- 🌱 I’m learning fullstack development on App Academy Open!
+- ✅ Ruby
+- ✅ SQL
+- 🎯 Currently: Ruby on Rails
+- 🎯 JavaScript
+- 🎯 React
 
 <!---
 fredchien3/fredchien3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
