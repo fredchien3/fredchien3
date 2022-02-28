@@ -3,6 +3,7 @@
 - 🌱 I’m learning fullstack development on App Academy Open!
 - ✅ Ruby
 - ✅ SQL
+- ✅ HTML and CSS
 - 🎯 Currently: Ruby on Rails
 - 🎯 JavaScript
 - 🎯 React
