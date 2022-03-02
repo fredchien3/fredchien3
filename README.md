@@ -4,6 +4,6 @@
 - ✅ Ruby
 - ✅ SQL
 - ✅ HTML and CSS
-- 🎯 Ruby on Rails 👈
-- 🎯 JavaScript
+- ✅ Ruby on Rails 
+- 🎯 JavaScript 👈
 - 🎯 React
