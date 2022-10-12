@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Fred Chien!
-- 👀 My hobbies include pottery, Brazilian Jiu-Jitsu, and weightlifting.
-- 🌱 Since Nov 2021, I have been teaching myself full stack development (and loving it)!
+# 👋 Hi, I’m Fred Chien!
+
+## Skills:
+
 - ✅ Ruby
 - ✅ SQL
 - ✅ HTML and CSS
-- ✅ Ruby on Rails 
-- 🎯 JavaScript 👈
-- 🎯 React
+- ✅ Ruby on Rails
+- ✅ JavaScript
+- ✅ React👈
+
+## Hobbies:
+
+- 🏺 Pottery
+- 🥋 Brazilian Jiu-Jitsu
+- 🏋️‍♀️ Weightlifting
