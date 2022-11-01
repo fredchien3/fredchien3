@@ -19,7 +19,7 @@ A highly interactive recipe planning app that searches and scores recipes based 
 A colorful single-page JavaScript application for visualizing calorie and macronutrient information.
 
 ## My Skills:
-JavaScript · React · Redux · Node.js · Express · Ruby on Rails · PostgreSQL · MongoDB · HTML · CSS · AWS S3
+React · Redux · JavaScript · Express.js · Ruby on Rails · PostgreSQL · MongoDB · HTML · CSS · AWS S3
 
 ## My Hobbies:
 🏺 Pottery 🏺 🥋 Brazilian Jiu-Jitsu 🥋 🏋️‍♀️ Weightlifting 🏋️‍
