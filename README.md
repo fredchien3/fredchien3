@@ -1,16 +1,18 @@
-# 👋 Hi, I’m Fred Chien!
+# Fred Chien
 
-## Skills:
+Welcome to my GitHub page! Check out my pinned repositories.
 
-- ✅ Ruby
-- ✅ SQL
-- ✅ HTML and CSS
-- ✅ Ruby on Rails
-- ✅ JavaScript
-- ✅ React👈
+## Featured projects:
+☀ [Solar Powered (live link)](https://solar-powered.herokuapp.com/)
+🍳 [Cubberd](https://cubberd.herokuapp.com/)
+🥗 [CalPal](https://fredchien3.github.io/CalPal/)
 
-## Hobbies:
 
-- 🏺 Pottery
-- 🥋 Brazilian Jiu-Jitsu
-- 🏋️‍♀️ Weightlifting
+## My Skills:
+JavaScript · React · Redux · Node.js · Express · Ruby on Rails · PostgreSQL · MongoDB · HTML · CSS · AWS S3
+
+## My Hobbies:
+🏺 Pottery 🏺 🥋 Brazilian Jiu-Jitsu 🥋 🏋️‍♀️ Weightlifting 🏋️‍
+
+## Links: 
+[LinkedIn](https://www.linkedin.com/in/fchien/)
