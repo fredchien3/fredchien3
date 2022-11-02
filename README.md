@@ -25,4 +25,4 @@ React · Redux · JavaScript · Express.js · Ruby on Rails · PostgreSQL · Mon
 🏺 Pottery 🏺 🥋 Brazilian Jiu-Jitsu 🥋 🏋️‍♀️ Weightlifting 🏋️‍
 
 ## Links: 
-[LinkedIn](https://www.linkedin.com/in/fchien/)
+[LinkedIn](https://www.linkedin.com/in/fchien/) · [AngelList](https://angel.co/u/fred-chien)
